@@ -1,0 +1,82 @@
+C:\Users\Chayut\Dropbox\Academic File 3.2\Intern (img)\openCV Projects\131125 - Blk Matching\131125 - Blk Matching\bin\Release\Emgu.CV.DebuggerVisualizers.VS2012.dll
+C:\Users\Chayut\Dropbox\Academic File 3.2\Intern (img)\openCV Projects\131125 - Blk Matching\131125 - Blk Matching\bin\Release\Emgu.CV.dll
+C:\Users\Chayut\Dropbox\Academic File 3.2\Intern (img)\openCV Projects\131125 - Blk Matching\131125 - Blk Matching\bin\Release\Emgu.CV.UI.dll
+C:\Users\Chayut\Dropbox\Academic File 3.2\Intern (img)\openCV Projects\131125 - Blk Matching\131125 - Blk Matching\bin\Release\Emgu.Util.dll
+C:\Users\Chayut\Dropbox\Academic File 3.2\Intern (img)\openCV Projects\131125 - Blk Matching\131125 - Blk Matching\bin\Release\ZedGraph.dll
+C:\Users\Chayut\Dropbox\Academic File 3.2\Intern (img)\openCV Projects\131125 - Blk Matching\131125 - Blk Matching\bin\Release\Emgu.CV.pdb
+C:\Users\Chayut\Dropbox\Academic File 3.2\Intern (img)\openCV Projects\131125 - Blk Matching\131125 - Blk Matching\bin\Release\Emgu.CV.xml
+C:\Users\Chayut\Dropbox\Academic File 3.2\Intern (img)\openCV Projects\131125 - Blk Matching\131125 - Blk Matching\bin\Release\Emgu.CV.UI.xml
+C:\Users\Chayut\Dropbox\Academic File 3.2\Intern (img)\openCV Projects\131125 - Blk Matching\131125 - Blk Matching\bin\Release\Emgu.Util.pdb
+C:\Users\Chayut\Dropbox\Academic File 3.2\Intern (img)\openCV Projects\131125 - Blk Matching\131125 - Blk Matching\bin\Release\Emgu.Util.xml
+C:\Users\Chayut\Dropbox\Academic File 3.2\Intern (img)\openCV Projects\131125 - Blk Matching\131125 - Blk Matching\obj\Release\131125 - Blk Matching.csprojResolveAssemblyReference.cache
+C:\Users\Chayut\Dropbox\Academic File 3.2\Intern (img)\openCV Projects\131125 - Blk Matching\131125 - Blk Matching\obj\Release\_131125___Blk_Matching.Form1.resources
+C:\Users\Chayut\Dropbox\Academic File 3.2\Intern (img)\openCV Projects\131125 - Blk Matching\131125 - Blk Matching\obj\Release\_131125___Blk_Matching.Properties.Resources.resources
+C:\Users\Chayut\Dropbox\Academic File 3.2\Intern (img)\openCV Projects\131125 - Blk Matching\131125 - Blk Matching\obj\Release\131125 - Blk Matching.csproj.GenerateResource.Cache
+C:\Users\Chayut\Dropbox\Academic File 3.2\Intern (img)\openCV Projects\131125 - Blk Matching\131125 - Blk Matching\bin\Release\Motion Estimation and Compensation.exe.config
+C:\Users\Chayut\Dropbox\Academic File 3.2\Intern (img)\openCV Projects\131125 - Blk Matching\131125 - Blk Matching\bin\Release\Motion Estimation and Compensation.exe
+C:\Users\Chayut\Dropbox\Academic File 3.2\Intern (img)\openCV Projects\131125 - Blk Matching\131125 - Blk Matching\bin\Release\Motion Estimation and Compensation.pdb
+C:\Users\Chayut\Dropbox\Academic File 3.2\Intern (img)\openCV Projects\131125 - Blk Matching\131125 - Blk Matching\obj\Release\Motion Estimation and Compensation.exe
+C:\Users\Chayut\Dropbox\Academic File 3.2\Intern (img)\openCV Projects\131125 - Blk Matching\131125 - Blk Matching\obj\Release\Motion Estimation and Compensation.pdb
+C:\Users\Chayut\Dropbox\Academic File 3.2\Intern (img)\openCV Projects\131125 - Blk Matching\131125 - Blk Matching\bin\Release\cublas64_55.dll
+C:\Users\Chayut\Dropbox\Academic File 3.2\Intern (img)\openCV Projects\131125 - Blk Matching\131125 - Blk Matching\bin\Release\cudart64_55.dll
+C:\Users\Chayut\Dropbox\Academic File 3.2\Intern (img)\openCV Projects\131125 - Blk Matching\131125 - Blk Matching\bin\Release\cufft64_55.dll
+C:\Users\Chayut\Dropbox\Academic File 3.2\Intern (img)\openCV Projects\131125 - Blk Matching\131125 - Blk Matching\bin\Release\nppc64_55.dll
+C:\Users\Chayut\Dropbox\Academic File 3.2\Intern (img)\openCV Projects\131125 - Blk Matching\131125 - Blk Matching\bin\Release\nppi64_55.dll
+C:\Users\Chayut\Dropbox\Academic File 3.2\Intern (img)\openCV Projects\131125 - Blk Matching\131125 - Blk Matching\bin\Release\npps64_55.dll
+C:\Users\Chayut\Dropbox\Academic File 3.2\Intern (img)\openCV Projects\131125 - Blk Matching\131125 - Blk Matching\bin\Release\opencv_calib3d290.dll
+C:\Users\Chayut\Dropbox\Academic File 3.2\Intern (img)\openCV Projects\131125 - Blk Matching\131125 - Blk Matching\bin\Release\opencv_contrib290.dll
+C:\Users\Chayut\Dropbox\Academic File 3.2\Intern (img)\openCV Projects\131125 - Blk Matching\131125 - Blk Matching\bin\Release\opencv_core290.dll
+C:\Users\Chayut\Dropbox\Academic File 3.2\Intern (img)\openCV Projects\131125 - Blk Matching\131125 - Blk Matching\bin\Release\opencv_cudev290.dll
+C:\Users\Chayut\Dropbox\Academic File 3.2\Intern (img)\openCV Projects\131125 - Blk Matching\131125 - Blk Matching\bin\Release\opencv_features2d290.dll
+C:\Users\Chayut\Dropbox\Academic File 3.2\Intern (img)\openCV Projects\131125 - Blk Matching\131125 - Blk Matching\bin\Release\opencv_ffmpeg290_64.dll
+C:\Users\Chayut\Dropbox\Academic File 3.2\Intern (img)\openCV Projects\131125 - Blk Matching\131125 - Blk Matching\bin\Release\opencv_flann290.dll
+C:\Users\Chayut\Dropbox\Academic File 3.2\Intern (img)\openCV Projects\131125 - Blk Matching\131125 - Blk Matching\bin\Release\opencv_gpu290.dll
+C:\Users\Chayut\Dropbox\Academic File 3.2\Intern (img)\openCV Projects\131125 - Blk Matching\131125 - Blk Matching\bin\Release\opencv_highgui290.dll
+C:\Users\Chayut\Dropbox\Academic File 3.2\Intern (img)\openCV Projects\131125 - Blk Matching\131125 - Blk Matching\bin\Release\opencv_imgproc290.dll
+C:\Users\Chayut\Dropbox\Academic File 3.2\Intern (img)\openCV Projects\131125 - Blk Matching\131125 - Blk Matching\bin\Release\opencv_legacy290.dll
+C:\Users\Chayut\Dropbox\Academic File 3.2\Intern (img)\openCV Projects\131125 - Blk Matching\131125 - Blk Matching\bin\Release\opencv_ml290.dll
+C:\Users\Chayut\Dropbox\Academic File 3.2\Intern (img)\openCV Projects\131125 - Blk Matching\131125 - Blk Matching\bin\Release\opencv_nonfree290.dll
+C:\Users\Chayut\Dropbox\Academic File 3.2\Intern (img)\openCV Projects\131125 - Blk Matching\131125 - Blk Matching\bin\Release\opencv_photo290.dll
+C:\Users\Chayut\Dropbox\Academic File 3.2\Intern (img)\openCV Projects\131125 - Blk Matching\131125 - Blk Matching\bin\Release\opencv_softcascade290.dll
+C:\Users\Chayut\Dropbox\Academic File 3.2\Intern (img)\openCV Projects\131125 - Blk Matching\131125 - Blk Matching\bin\Release\opencv_superres290.dll
+C:\Users\Chayut\Dropbox\Academic File 3.2\Intern (img)\openCV Projects\140114 - SbpxInter\131125 - Blk Matching\bin\Release\SbpxandInter.exe.config
+C:\Users\Chayut\Dropbox\Academic File 3.2\Intern (img)\openCV Projects\140114 - SbpxInter\131125 - Blk Matching\bin\Release\cublas64_55.dll
+C:\Users\Chayut\Dropbox\Academic File 3.2\Intern (img)\openCV Projects\140114 - SbpxInter\131125 - Blk Matching\bin\Release\cudart64_55.dll
+C:\Users\Chayut\Dropbox\Academic File 3.2\Intern (img)\openCV Projects\140114 - SbpxInter\131125 - Blk Matching\bin\Release\cufft64_55.dll
+C:\Users\Chayut\Dropbox\Academic File 3.2\Intern (img)\openCV Projects\140114 - SbpxInter\131125 - Blk Matching\bin\Release\nppc64_55.dll
+C:\Users\Chayut\Dropbox\Academic File 3.2\Intern (img)\openCV Projects\140114 - SbpxInter\131125 - Blk Matching\bin\Release\nppi64_55.dll
+C:\Users\Chayut\Dropbox\Academic File 3.2\Intern (img)\openCV Projects\140114 - SbpxInter\131125 - Blk Matching\bin\Release\npps64_55.dll
+C:\Users\Chayut\Dropbox\Academic File 3.2\Intern (img)\openCV Projects\140114 - SbpxInter\131125 - Blk Matching\bin\Release\opencv_calib3d290.dll
+C:\Users\Chayut\Dropbox\Academic File 3.2\Intern (img)\openCV Projects\140114 - SbpxInter\131125 - Blk Matching\bin\Release\opencv_contrib290.dll
+C:\Users\Chayut\Dropbox\Academic File 3.2\Intern (img)\openCV Projects\140114 - SbpxInter\131125 - Blk Matching\bin\Release\opencv_core290.dll
+C:\Users\Chayut\Dropbox\Academic File 3.2\Intern (img)\openCV Projects\140114 - SbpxInter\131125 - Blk Matching\bin\Release\opencv_cudev290.dll
+C:\Users\Chayut\Dropbox\Academic File 3.2\Intern (img)\openCV Projects\140114 - SbpxInter\131125 - Blk Matching\bin\Release\opencv_features2d290.dll
+C:\Users\Chayut\Dropbox\Academic File 3.2\Intern (img)\openCV Projects\140114 - SbpxInter\131125 - Blk Matching\bin\Release\opencv_ffmpeg290_64.dll
+C:\Users\Chayut\Dropbox\Academic File 3.2\Intern (img)\openCV Projects\140114 - SbpxInter\131125 - Blk Matching\bin\Release\opencv_flann290.dll
+C:\Users\Chayut\Dropbox\Academic File 3.2\Intern (img)\openCV Projects\140114 - SbpxInter\131125 - Blk Matching\bin\Release\opencv_gpu290.dll
+C:\Users\Chayut\Dropbox\Academic File 3.2\Intern (img)\openCV Projects\140114 - SbpxInter\131125 - Blk Matching\bin\Release\opencv_highgui290.dll
+C:\Users\Chayut\Dropbox\Academic File 3.2\Intern (img)\openCV Projects\140114 - SbpxInter\131125 - Blk Matching\bin\Release\opencv_imgproc290.dll
+C:\Users\Chayut\Dropbox\Academic File 3.2\Intern (img)\openCV Projects\140114 - SbpxInter\131125 - Blk Matching\bin\Release\opencv_legacy290.dll
+C:\Users\Chayut\Dropbox\Academic File 3.2\Intern (img)\openCV Projects\140114 - SbpxInter\131125 - Blk Matching\bin\Release\opencv_ml290.dll
+C:\Users\Chayut\Dropbox\Academic File 3.2\Intern (img)\openCV Projects\140114 - SbpxInter\131125 - Blk Matching\bin\Release\opencv_nonfree290.dll
+C:\Users\Chayut\Dropbox\Academic File 3.2\Intern (img)\openCV Projects\140114 - SbpxInter\131125 - Blk Matching\bin\Release\opencv_photo290.dll
+C:\Users\Chayut\Dropbox\Academic File 3.2\Intern (img)\openCV Projects\140114 - SbpxInter\131125 - Blk Matching\bin\Release\opencv_softcascade290.dll
+C:\Users\Chayut\Dropbox\Academic File 3.2\Intern (img)\openCV Projects\140114 - SbpxInter\131125 - Blk Matching\bin\Release\opencv_superres290.dll
+C:\Users\Chayut\Dropbox\Academic File 3.2\Intern (img)\openCV Projects\140114 - SbpxInter\131125 - Blk Matching\bin\Release\SbpxandInter.exe
+C:\Users\Chayut\Dropbox\Academic File 3.2\Intern (img)\openCV Projects\140114 - SbpxInter\131125 - Blk Matching\bin\Release\SbpxandInter.pdb
+C:\Users\Chayut\Dropbox\Academic File 3.2\Intern (img)\openCV Projects\140114 - SbpxInter\131125 - Blk Matching\bin\Release\Emgu.CV.DebuggerVisualizers.VS2012.dll
+C:\Users\Chayut\Dropbox\Academic File 3.2\Intern (img)\openCV Projects\140114 - SbpxInter\131125 - Blk Matching\bin\Release\Emgu.CV.dll
+C:\Users\Chayut\Dropbox\Academic File 3.2\Intern (img)\openCV Projects\140114 - SbpxInter\131125 - Blk Matching\bin\Release\Emgu.CV.UI.dll
+C:\Users\Chayut\Dropbox\Academic File 3.2\Intern (img)\openCV Projects\140114 - SbpxInter\131125 - Blk Matching\bin\Release\Emgu.Util.dll
+C:\Users\Chayut\Dropbox\Academic File 3.2\Intern (img)\openCV Projects\140114 - SbpxInter\131125 - Blk Matching\bin\Release\ZedGraph.dll
+C:\Users\Chayut\Dropbox\Academic File 3.2\Intern (img)\openCV Projects\140114 - SbpxInter\131125 - Blk Matching\bin\Release\Emgu.CV.pdb
+C:\Users\Chayut\Dropbox\Academic File 3.2\Intern (img)\openCV Projects\140114 - SbpxInter\131125 - Blk Matching\bin\Release\Emgu.CV.xml
+C:\Users\Chayut\Dropbox\Academic File 3.2\Intern (img)\openCV Projects\140114 - SbpxInter\131125 - Blk Matching\bin\Release\Emgu.CV.UI.xml
+C:\Users\Chayut\Dropbox\Academic File 3.2\Intern (img)\openCV Projects\140114 - SbpxInter\131125 - Blk Matching\bin\Release\Emgu.Util.pdb
+C:\Users\Chayut\Dropbox\Academic File 3.2\Intern (img)\openCV Projects\140114 - SbpxInter\131125 - Blk Matching\bin\Release\Emgu.Util.xml
+C:\Users\Chayut\Dropbox\Academic File 3.2\Intern (img)\openCV Projects\140114 - SbpxInter\131125 - Blk Matching\obj\Release\131125 - Blk Matching.csprojResolveAssemblyReference.cache
+C:\Users\Chayut\Dropbox\Academic File 3.2\Intern (img)\openCV Projects\140114 - SbpxInter\131125 - Blk Matching\obj\Release\_131125___Blk_Matching.Properties.Resources.resources
+C:\Users\Chayut\Dropbox\Academic File 3.2\Intern (img)\openCV Projects\140114 - SbpxInter\131125 - Blk Matching\obj\Release\_131125___Blk_Matching.Form1.resources
+C:\Users\Chayut\Dropbox\Academic File 3.2\Intern (img)\openCV Projects\140114 - SbpxInter\131125 - Blk Matching\obj\Release\131125 - Blk Matching.csproj.GenerateResource.Cache
+C:\Users\Chayut\Dropbox\Academic File 3.2\Intern (img)\openCV Projects\140114 - SbpxInter\131125 - Blk Matching\obj\Release\SbpxandInter.exe
+C:\Users\Chayut\Dropbox\Academic File 3.2\Intern (img)\openCV Projects\140114 - SbpxInter\131125 - Blk Matching\obj\Release\SbpxandInter.pdb

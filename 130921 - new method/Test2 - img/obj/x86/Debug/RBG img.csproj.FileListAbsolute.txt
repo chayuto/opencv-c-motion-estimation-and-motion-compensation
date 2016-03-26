@@ -1,0 +1,27 @@
+C:\Users\Chayut\Dropbox\Academic File 3.2\Intern (img)\openCV Projects\130921 - Colour image\Test2 - img\bin\Debug\RGB_IMG.exe.config
+C:\Users\Chayut\Dropbox\Academic File 3.2\Intern (img)\openCV Projects\130921 - Colour image\Test2 - img\bin\Debug\RGB_IMG.exe
+C:\Users\Chayut\Dropbox\Academic File 3.2\Intern (img)\openCV Projects\130921 - Colour image\Test2 - img\bin\Debug\RGB_IMG.pdb
+C:\Users\Chayut\Dropbox\Academic File 3.2\Intern (img)\openCV Projects\130921 - Colour image\Test2 - img\bin\Debug\Emgu.CV.DebuggerVisualizers.VS2010.dll
+C:\Users\Chayut\Dropbox\Academic File 3.2\Intern (img)\openCV Projects\130921 - Colour image\Test2 - img\bin\Debug\Emgu.CV.dll
+C:\Users\Chayut\Dropbox\Academic File 3.2\Intern (img)\openCV Projects\130921 - Colour image\Test2 - img\bin\Debug\Emgu.CV.GPU.dll
+C:\Users\Chayut\Dropbox\Academic File 3.2\Intern (img)\openCV Projects\130921 - Colour image\Test2 - img\bin\Debug\Emgu.CV.ML.dll
+C:\Users\Chayut\Dropbox\Academic File 3.2\Intern (img)\openCV Projects\130921 - Colour image\Test2 - img\bin\Debug\Emgu.CV.OCR.dll
+C:\Users\Chayut\Dropbox\Academic File 3.2\Intern (img)\openCV Projects\130921 - Colour image\Test2 - img\bin\Debug\Emgu.CV.Stitching.dll
+C:\Users\Chayut\Dropbox\Academic File 3.2\Intern (img)\openCV Projects\130921 - Colour image\Test2 - img\bin\Debug\Emgu.CV.UI.dll
+C:\Users\Chayut\Dropbox\Academic File 3.2\Intern (img)\openCV Projects\130921 - Colour image\Test2 - img\bin\Debug\Emgu.CV.VideoStab.dll
+C:\Users\Chayut\Dropbox\Academic File 3.2\Intern (img)\openCV Projects\130921 - Colour image\Test2 - img\bin\Debug\Emgu.Util.dll
+C:\Users\Chayut\Dropbox\Academic File 3.2\Intern (img)\openCV Projects\130921 - Colour image\Test2 - img\bin\Debug\ZedGraph.dll
+C:\Users\Chayut\Dropbox\Academic File 3.2\Intern (img)\openCV Projects\130921 - Colour image\Test2 - img\bin\Debug\Emgu.CV.xml
+C:\Users\Chayut\Dropbox\Academic File 3.2\Intern (img)\openCV Projects\130921 - Colour image\Test2 - img\bin\Debug\Emgu.CV.GPU.xml
+C:\Users\Chayut\Dropbox\Academic File 3.2\Intern (img)\openCV Projects\130921 - Colour image\Test2 - img\bin\Debug\Emgu.CV.ML.xml
+C:\Users\Chayut\Dropbox\Academic File 3.2\Intern (img)\openCV Projects\130921 - Colour image\Test2 - img\bin\Debug\Emgu.CV.OCR.xml
+C:\Users\Chayut\Dropbox\Academic File 3.2\Intern (img)\openCV Projects\130921 - Colour image\Test2 - img\bin\Debug\Emgu.CV.Stitching.xml
+C:\Users\Chayut\Dropbox\Academic File 3.2\Intern (img)\openCV Projects\130921 - Colour image\Test2 - img\bin\Debug\Emgu.CV.UI.xml
+C:\Users\Chayut\Dropbox\Academic File 3.2\Intern (img)\openCV Projects\130921 - Colour image\Test2 - img\bin\Debug\Emgu.CV.VideoStab.xml
+C:\Users\Chayut\Dropbox\Academic File 3.2\Intern (img)\openCV Projects\130921 - Colour image\Test2 - img\bin\Debug\Emgu.Util.xml
+C:\Users\Chayut\Dropbox\Academic File 3.2\Intern (img)\openCV Projects\130921 - Colour image\Test2 - img\obj\x86\Debug\RBG img.csprojResolveAssemblyReference.cache
+C:\Users\Chayut\Dropbox\Academic File 3.2\Intern (img)\openCV Projects\130921 - Colour image\Test2 - img\obj\x86\Debug\Test2___img.Form1.resources
+C:\Users\Chayut\Dropbox\Academic File 3.2\Intern (img)\openCV Projects\130921 - Colour image\Test2 - img\obj\x86\Debug\RGB_IMG.Properties.Resources.resources
+C:\Users\Chayut\Dropbox\Academic File 3.2\Intern (img)\openCV Projects\130921 - Colour image\Test2 - img\obj\x86\Debug\RBG img.csproj.GenerateResource.Cache
+C:\Users\Chayut\Dropbox\Academic File 3.2\Intern (img)\openCV Projects\130921 - Colour image\Test2 - img\obj\x86\Debug\RGB_IMG.exe
+C:\Users\Chayut\Dropbox\Academic File 3.2\Intern (img)\openCV Projects\130921 - Colour image\Test2 - img\obj\x86\Debug\RGB_IMG.pdb
